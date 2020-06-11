@@ -1,0 +1,1 @@
+# maixcube-face-detect-demo
